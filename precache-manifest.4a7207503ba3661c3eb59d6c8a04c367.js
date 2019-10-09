@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8dd1364b65303d0bb91645d746a78ad",
+    "revision": "932577103a3130a74d44242518862a15",
     "url": "/web-dev/index.html"
   },
   {
-    "revision": "baaba7009587683a0e04",
+    "revision": "a8029a731566e0008093",
     "url": "/web-dev/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-dev/static/js/2.d231b8c0.chunk.js"
   },
   {
-    "revision": "baaba7009587683a0e04",
-    "url": "/web-dev/static/js/main.aab79220.chunk.js"
+    "revision": "a8029a731566e0008093",
+    "url": "/web-dev/static/js/main.bb4c4cba.chunk.js"
   },
   {
     "revision": "d81aa0601a1492d9cee3",
     "url": "/web-dev/static/js/runtime-main.63b2465a.js"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/web-dev/static/media/logo.25bf045c.svg"
+    "revision": "a9a6427315a6bceec7df7c09d9ff1158",
+    "url": "/web-dev/static/media/AmAble-Logo.a9a64273.svg"
   }
 ]);
